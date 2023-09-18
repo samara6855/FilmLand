@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FilmLand/static/css/main.334bdeb1.css",
-    "main.js": "/FilmLand/static/js/main.55115bc8.js",
+    "main.js": "/FilmLand/static/js/main.cb617878.js",
     "index.html": "/FilmLand/index.html",
     "static/media/search.svg": "/FilmLand/static/media/search.6de3071a420c9a7978698a850e9c4d3c.svg",
     "main.334bdeb1.css.map": "/FilmLand/static/css/main.334bdeb1.css.map",
-    "main.55115bc8.js.map": "/FilmLand/static/js/main.55115bc8.js.map"
+    "main.cb617878.js.map": "/FilmLand/static/js/main.cb617878.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.55115bc8.js"
+    "static/js/main.cb617878.js"
   ]
 }
